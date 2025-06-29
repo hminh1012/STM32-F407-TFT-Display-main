@@ -1,6 +1,6 @@
 # STM32-F407-TFT-Display
 
-Cre: lukas0173
+Cre: https://github.com/lukas0173/STM32-F407-TFT-Display.git
 
 Link Youtube: https://youtu.be/4Q9slg72BXE?si=NKwpC67XfI1g5_zQ
 
