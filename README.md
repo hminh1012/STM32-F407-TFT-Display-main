@@ -8,6 +8,14 @@ Link Youtube Full: https://youtu.be/QYsB1-hZlzI?si=pJNaX-6_GcHTe9Gh
 
 
 The project will utilize the 3.5-inch TFT LCD (Wireshark clone), ILI9486 chip, with the STM32F407VGT6 dev kit. An additional adapter layer is needed over the original Wireshark driver for LVGL compatibility (`Core/Inc/ili9846_lvgl.h`, and `Core/Src/ili9846_lvgl.c`). This adapter layer is inspired by the ILI9341 driver, following this tutorial: https://controllerstech.com/lvgl-on-stm32-part-1/
+
+The result like this
+![img2](https://github.com/hminh1012/STM32-F407-TFT-Display-main/blob/4f19c8eadb7831bfeaed505349f6ff52e63e673b/img/Demo.png)
+
+
+![img](https://github.com/hminh1012/STM32-F407-TFT-Display-main/blob/4f19c8eadb7831bfeaed505349f6ff52e63e673b/img/Full.png)
+
+
 ## Notes
 ### Dashboard UI
 The Dashboard UI for my project is located in `Drivers/UI`, you can use it as a reference. This folder is exported as a designed ui using [SquareLine Studio](http://squareline.io/)
